@@ -1,0 +1,1 @@
+This project will calculate your weight on other planets. Open up the HTML file to start seeing your weight on the moon or the sun or any other planet. 
