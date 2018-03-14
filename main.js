@@ -1,4 +1,3 @@
-// Write your JavaScript code here!
 var planets = [
     ['Pluto', 0.06],
     ['Neptune', 1.148],
